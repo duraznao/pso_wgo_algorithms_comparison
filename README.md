@@ -1,6 +1,6 @@
 # Comparación de algoritmos PSO GWO
 
-Una comparación entre algoritmos PSO, GWO y una algortimo híbrido mediante el uso de varios mapas binarizados de planos 2D con obstáculos, simultáneamente.  
+Una comparación entre algoritmos PSO, GWO y un algoritmo híbrido, para optimización de rutas usando varios mapas binarizados de planos 2D con obstáculos, simultáneamente.
 
 # Modificaciones realizadas
  * Se agrega un directorio llamado ```recursos``` de los mapas en formato JPG y de un archivo de Adobe Illustrator para generación de mapas.
